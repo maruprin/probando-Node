@@ -27,8 +27,8 @@ Brunei 437,479 5,270
 Bulgaria 6,948,445 108,560
 Burkina Faso 20,903,273 273,600
 Burundi 11,890,784 25,680
-Côte d'Ivoire 26,378,274
-Cabo Verde 555,987
+Côte d'Ivoire 26,378,274 322,463
+Cabo Verde 555,987 4,033
 Cambodia 16,718,965 176,520
 Cameroon 26,545,863 472,710
 Canada 37,742,154 9,093,510
@@ -72,7 +72,7 @@ Guinea 13,132,795 245,720
 Guinea-Bissau 1,968,001 28,120
 Guyana 786,552 196
 Haiti 11,402,528 27,560
-Holy See 801 0 2
+Holy See 825 0.49 44
 Honduras 9,904,607 111,890
 Hungary 9,660,351 90,530
 Iceland 341,243 100
@@ -103,16 +103,16 @@ Luxembourg 625,978 2,590
 Madagascar 27,691,018 581,795
 Malawi 19,129,952 94,280
 Malaysia 32,365,999 328,550
-Maldives 540,544 300 1
+Maldives 540,544 297.8
 Mali 20,250,833 1,220,190
-Malta 441,543 320 1
+Malta 441,543 320
 Marshall Islands 59,190 180
 Mauritania 4,649,658 1,030
 Mauritius 1,271,768 2,030
 Mexico 128,932,753 1,943,950
 Micronesia 548,914 700
 Moldova 4,033,963 32,850
-Monaco 39,242 1 26
+Monaco 39,242 5.47
 Mongolia 3,278,290 1,553
 Montenegro 628,066 13,450
 Morocco 36,910,560 446,300
@@ -155,7 +155,7 @@ Senegal 16,743,927 192,530
 Serbia 8,737,371 87,460
 Seychelles 98,347 460
 Sierra Leone 7,976,983 72,180
-Singapore 5,850,342 700 8
+Singapore 5,850,342 728
 Slovakia 5,459,642 48,088
 Slovenia 2,078,938 20,140
 Solomon Islands 686,884 27,990

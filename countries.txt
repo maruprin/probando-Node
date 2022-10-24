@@ -1,4 +1,4 @@
-Country Population Area
+Country - Population - Area - Density
 Afghanistan 38,928,346 652,860
 Albania 2,877,797 27,400
 Algeria 43,851,044 2,381,740

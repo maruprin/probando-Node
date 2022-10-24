@@ -29,27 +29,15 @@ countriesArray = countriesArray.map((countryInfo)=>{
 countriesArray = countriesArray.sort((a,b)=>{
    return b[3]-a[3]
 })
-
-
-
-console.log(countriesArray)
-
-
-// let population;
-// let populationArray;
-// countries.map((country,i)=>{
-//     populationArray = country.split(' ')
-//     population = populationArray[populationArray.length-2]
-//     console.log(population)
-//     return population
+// countriesArray =  countriesArray.map((country)=>{
+//     return country.join(" - ")
 // })
 
-// let area;
-// let areaArray;
-// countries.map((country,i)=>{
-//     areaArray = country.split(' ')
-//     area = areaArray[areaArray.length-1]
-//     console.log(area)
-//     return area
+// const finalData = title + '\n' + countriesArray.map((country)=>{
+//      country.join(" - ")
 // })
 
+const finalData = title + '\n' + '\n' + countriesArray.map((country) => (country).join(" - ") + "," + "\n")
+    .join("\n");
+
+fs.writeFileSync("countries.csv", finalData);

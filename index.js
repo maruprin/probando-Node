@@ -29,13 +29,6 @@ countriesArray = countriesArray.map((countryInfo)=>{
 countriesArray = countriesArray.sort((a,b)=>{
    return b[3]-a[3]
 })
-// countriesArray =  countriesArray.map((country)=>{
-//     return country.join(" - ")
-// })
-
-// const finalData = title + '\n' + countriesArray.map((country)=>{
-//      country.join(" - ")
-// })
 
 const finalData = title + '\n' + '\n' + countriesArray.map((country) => (country).join(" - ") + "," + "\n")
     .join("\n");
